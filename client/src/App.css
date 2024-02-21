@@ -1,0 +1,143 @@
+/* Header */
+.font-style {
+  font-family: 'Poppins', sans-serif;
+}
+.navbar-nav {
+  margin-left: auto; 
+  
+}
+
+.nav-item {
+  margin-right: 45px; 
+}
+
+.navbar-toggler {
+  margin-left: auto; 
+}
+.logo-img {
+  width: auto; 
+  height: auto; 
+  max-width: 100%; 
+  max-height: 50px; 
+}
+
+/* ---------------------- */
+
+/* home */
+
+.main{
+  color: #006184;
+  font-size: 35px;
+}
+.smain{
+ 
+  font-size: 30px;
+}
+
+.btn{
+  margin-right: 25px;
+  
+}
+
+
+.c1{
+  background-image: linear-gradient(to right, white 50%, #006184 50%);
+ 
+
+}
+
+.c2{
+background-color: #006184;
+}
+
+.ab{
+color: white;
+font-size: 30px;
+}
+
+.abc{
+color: white;
+font-size: 35px;
+}
+
+.abcd{
+  color: white;
+}
+.image-container {
+
+  padding: 75px; 
+}
+
+img.img-fluid{
+  background-color: white;
+  border-radius: 20px;
+  padding: 25px;
+}
+.ad{
+font-size: 35px;
+}
+.black {
+  background-color: black;
+  color: white;
+}
+.card-intro {
+  font-weight: bold;
+}
+.card-int {
+  font-weight: bold;
+}
+
+
+.card-intro::after {
+  content: '';
+  display: block;
+  width: auto; /* Adjust the width of the line as needed */
+  height:1px; /* Adjust the height of the line as needed */
+  background-color: green;
+  margin-top: 25px; /* Adjust the distance between the text and the line as needed */
+}
+
+.custom-card {
+  display: flex; 
+  align-items: flex-start; 
+  border-radius: 15px;
+}
+.material-symbols-outlined {
+  margin-right: 8px;
+  font-size: 24px; /* Adjust the size as needed */
+  background-color: black;
+  color: white; /* Ensures the icon is visible against a black background */
+  padding: 5px; /* Optional: Adds some space around the icon */
+  border-radius: 4px; /* Optional: Rounds the corners of the icon's background */
+}
+.c3{
+  background-color: #006184;
+  color: white;
+}
+.c4{
+  background-color:#006184 ;
+  
+}
+
+
+.custom-cards {
+  display: flex; 
+  align-items: flex-start; 
+  border-radius: 20px;
+  color: rgb(75, 71, 71);
+  background-color: #343434;
+}
+.dropdown {
+  display: flex; 
+  align-items: flex-start; 
+  border-radius: 20px;
+  color: rgb(75, 71, 71);
+  background-color: #343434;
+}
+.custom-cards, .dropdown {
+  width: 100%; /* Or specify a specific width */
+  height: 100%; /* Or specify a specific height */
+}
+
+/* ----------------------------------------- */
+
